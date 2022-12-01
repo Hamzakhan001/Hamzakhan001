@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack web developer with 2+ years of professional web dev experience.<br>My skills are React,Node, Angular,.NET Core, PostgreSQL and MonogoDB. I've bachelors degree in <br>GIS development and have worked on multiple projects using Leaflet, Mapbox, Open Layers
+I am a full stack web developer with 2+ years of professional web dev experience.<br>My skills are React,Node, Angular,.NET Core, PostgreSQL and MonogoDB. I've bachelors degree in <br>GIS development and have worked on multiple projects using Leaflet, Mapbox & Open Layers
 
 
 ## 🌐 Socials:
