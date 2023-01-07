@@ -12,7 +12,7 @@ I am a full stack web developer with 3+ years of professional web dev experience
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhan001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhan001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Hamza Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
