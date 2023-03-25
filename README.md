@@ -2,6 +2,16 @@
 I am a full stack web developer with 3+ years of professional web dev experience.<br>My skills are React,Django,Node, Angular,.NET Core, PostgreSQL and MonogoDB. I've bachelors degree in <br>GIS development and have worked on multiple projects using Mapping libraries like Mapbox, Leaflet ,Open Layers & Mablibregl 
 
 
+Recent product under development: Wayloader(Being used by Dublin City Council)
+Stack:
+Angular
+Typescript
+Leaflet
+Mapbox
+GDAL(Python)
+Node
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamzakhanhere/) 
 
