@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack web developer with 2+ years of professional web dev experience.<br>My skills are React,Django,Node, Angular, PostgreSQL and MonogoDB. I've bachelors degree in <br>GIS development and have worked on multiple projects using Mapping libraries like Mapbox, Leaflet ,Open Layers & Mablibregl 
+I am a full stack web developer with 2+ years of professional web dev experience.<br>My skills are React,Django,Node,Angular, PostgreSQL and MonogoDB. I've bachelors degree in <br>GIS development and have worked on multiple projects using Mapping libraries like Mapbox, Leaflet ,Open Layers & Mablibregl 
 
 
 Recent product under development: Wayloader(Being used by Dublin City Council)
