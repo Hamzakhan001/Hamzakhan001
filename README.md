@@ -12,6 +12,10 @@ GDAL(Python)
 Node
 
 
+What I like to do?
+
+Programming scalable solutions using MERN,MEAN & Django. <strong>GIS consultation</strong> or <strong>Web GIS development</strong> is my main these days. Get into contact if you are facing some issue.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamzakhanhere/) 
 
