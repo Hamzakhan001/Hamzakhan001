@@ -1,33 +1,117 @@
-# 💫 About Me:
-I am a AI First Full Stack Web Developer with 3+ years of professional cloud native web dev experience.<br>My skills are MERN stack, MEAN Stack, React,Django,Node,Angular, PostgreSQL and MonogoDB. I've bachelors degree in <br>GIS development and have worked on multiple projects using Mapping libraries like Mapbox, Leaflet ,Open Layers & Mablibregl 
+# Hamza Khan | Full Stack Developer & AI Engineer
 
+**AI-First Full Stack Web Developer | Python | React | Node.js | TypeScript | Django | LLM & RAG Systems**
 
-Recent product under development: Wayloader(Being used by Dublin City Council)
-Stack:
-Angular
-Typescript
-Leaflet
-Mapbox
-GDAL(Python)
-Node
-
-
-What I like to do?
-
-Programming scalable solutions using MERN,MEAN & Django. <strong>GIS consultation</strong> or <strong>Web GIS development</strong> is my main these days. Get into contact if you are facing some issue.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzakhanhere/) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hamzakhan001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhan001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhan001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Hamza Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Full-stack web developer and AI engineer with 3+ years of professional experience building scalable cloud-native applications. Specialized in geospatial data systems, machine learning integration, and enterprise web platforms.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hamzakhan001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💡 What I Build
+
+I develop full-stack solutions combining modern web technologies with AI/ML capabilities:
+
+- **Frontend**: React, TypeScript, Angular, Next.js with responsive design and real-time visualization
+- **Backend**: Node.js, Express, Django, Flask with RESTful APIs and microservices architecture
+- **Geospatial**: Web GIS applications using Mapbox, Leaflet, PostGIS for mapping and spatial analysis
+- **AI/ML**: LLM integrations, RAG (Retrieval-Augmented Generation) systems, data pipelines
+- **Cloud**: Google Cloud Platform, AWS, containerized deployments with scalable infrastructure
+
+Current focus: Building AI-powered geospatial and data processing solutions
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, JavaScript, TypeScript, SQL, Java, C#
+
+**Frontend**: React, Angular, Next.js, TypeScript, Redux, React Router, Chakra UI, SASS
+
+**Backend**: Node.js, Express.js, Django, Flask, RESTful APIs, JWT Authentication
+
+**Databases**: PostgreSQL, PostGIS, MongoDB, MySQL, DynamoDB
+
+**AI/ML**: LLM Integration, RAG Systems, TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
+
+**Geospatial**: Mapbox, Leaflet, PostGIS, GDAL (Python), Geoserver, Web GIS Development
+
+**Cloud & DevOps**: Google Cloud Platform, AWS, Docker, Kubernetes, Nginx, Heroku, DigitalOcean, Netlify
+
+**Tools**: Git, Webpack, npm, Socket.io, Chart.js, Three.js
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer | Multiple Companies**
+
+Built and deployed production web applications across agriculture, real estate, and government sectors:
+
+- **ETL Pipelines & Data Processing**: Designed end-to-end geospatial pipelines processing satellite imagery through cloud functions (GCP), managing 4M+ polygon datasets with PostgreSQL/PostGIS
+- **REST APIs**: Developed Django REST and Node.js/Express APIs serving geospatial and analytical data with API integrations and webhooks
+- **Cloud Architecture**: Deployed containerized applications on GCP Cloud Run and AWS, optimizing performance and cost
+- **Geospatial Solutions**: Built Web GIS applications for project management (Dublin City Council), site suitability analysis, and real-time monitoring
+- **Data Integration**: Integrated external data sources, automated ETL workflows, managed API-based data ingestion with quality validation
+
+**Key Projects**:
+- WayLoader: Project management platform for Dublin City Council using Angular, TypeScript, Leaflet, Python (GDAL), Node.js
+- OMEGA Space: Agricultural monitoring platform with satellite image processing, cloud pipelines, real-time analytics
+- Graana.com: Real estate platform managing 4M spatial records with React, Node.js, Express, PostgreSQL+PostGIS
+- GLOF Monitoring: Automated satellite monitoring system with Sky Watch integration and alert generation
+
+---
+
+## 🎯 Core Competencies
+
+**Full-Stack Development**: MERN (MongoDB, Express, React, Node), MEAN (Angular), Django/Flask stacks
+
+**Geospatial Technology**: Web GIS development, spatial databases, mapping libraries, remote sensing data processing
+
+**AI & Machine Learning**: LLM integration, RAG systems, data preprocessing, model deployment
+
+**Cloud-Native Development**: Microservices, containerization, serverless functions, cloud infrastructure
+
+**Database Design**: Relational (PostgreSQL, MySQL), NoSQL (MongoDB), Spatial (PostGIS), optimization and indexing
+
+**Software Engineering**: Clean code practices, API design, version control, CI/CD, agile methodology
+
+---
+
+## 📚 Education & Expertise
+
+**Masters in Artificial Intelligence** | AI applications, machine learning, neural networks
+
+**Bachelors in GIS Development** | Spatial analysis, geospatial technology, data visualization
+
+Hands-on experience with Python data science ecosystem, machine learning frameworks, and LLM/RAG implementations for production systems.
+
+---
+
+## 🚀 Open To
+
+- Full Stack Developer roles (React, Node.js, Python)
+- Backend/API Development (Python, Node.js, Django, Flask)
+- GIS/Geospatial Development
+- AI Engineer / LLM Integration roles
+- Data Engineering & ETL Pipeline development
+
+Experienced with cross-functional teams. Strong focus on solving real-world problems with scalable, maintainable code.
+
+---
+
+## 🔗 Let's Connect
+
+**Portfolio**: [hamzatwin.site](https://www.hamzatwin.site/)
+**LinkedIn**: [linkedin.com/in/hamzakhanhere](https://www.linkedin.com/in/hamzakhanhere/)
+**Open to**: Full-stack, backend, geospatial, and AI engineering opportunities
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=Hamzakhan001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhan001&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhan001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+> Building scalable systems that solve real problems | Full Stack • GIS • AI
