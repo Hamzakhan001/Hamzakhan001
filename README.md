@@ -22,7 +22,7 @@ Current focus: Building AI-powered geospatial and data processing solutions
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript, TypeScript, SQL, Java, C#
+**Languages**: Python, JavaScript, TypeScript, SQL
 
 **Frontend**: React, Angular, Next.js, TypeScript, Redux, React Router, Chakra UI, SASS
 
