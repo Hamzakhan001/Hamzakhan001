@@ -2,7 +2,7 @@
 
 **AI-First Full Stack Web Developer | Python | React | Node.js | TypeScript | Django | LLM & RAG Systems**
 
-Full-stack web developer and AI engineer with 3+ years of professional experience building scalable cloud-native applications. Specialized in geospatial data systems, machine learning integration, and enterprise web platforms.
+Full-stack web developer and AI engineer with 4+ years of professional experience building scalable cloud-native applications. Specialized in geospatial data systems, machine learning integration, and enterprise web platforms.
 
 ---
 
