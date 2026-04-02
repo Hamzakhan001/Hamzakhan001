@@ -1,4 +1,4 @@
-# Hamza Khan | Full Stack Developer & AI Engineer
+# Hamza Khan | Full Stack Developer & Generative AI Engineer
 
 **AI-First Full Stack Web Developer | Python | React | Node.js | TypeScript | Django | LLM & RAG Systems**
 
