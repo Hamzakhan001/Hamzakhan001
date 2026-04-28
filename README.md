@@ -1,117 +1,109 @@
-# Hamza Khan | Full Stack Developer & Generative AI Engineer
+# Hamza Khan
 
-**AI-First Full Stack Web Developer | Python | React | Node.js | TypeScript | Django | LLM & RAG Systems**
+Generative AI Engineer building production-minded RAG and agentic systems with evaluation, observability, and full-stack delivery.
 
-Full-stack web developer and AI engineer with 3+ years of professional experience building scalable cloud-native applications. Specialized in geospatial data systems, machine learning integration, and enterprise web platforms.
+I build AI applications that go beyond demos, with a focus on grounded retrieval, tool-connected workflows, contextual memory, offline evaluation, and production reliability. My recent work combines Python, FastAPI, Next.js, OpenAI, Pinecone, LangGraph, Postgres, and AWS to ship systems that are measurable, traceable, and useful in real environments.
 
----
+## What I Work On
 
-## 💡 What I Build
+- Production RAG systems with grounded answers and measurable quality
+- Agentic workflows with retrieval, persistence, and human-in-the-loop review
+- LLM evaluation pipelines for faithfulness, relevance, and regression tracking
+- Observability for AI systems using tracing, metrics, and structured logs
+- Full-stack AI products across backend, frontend, and deployment
 
-I develop full-stack solutions combining modern web technologies with AI/ML capabilities:
+## Featured Projects
 
-- **Frontend**: React, TypeScript, Angular, Next.js with responsive design and real-time visualization
-- **Backend**: Node.js, Express, Django, Flask with RESTful APIs and microservices architecture
-- **Geospatial**: Web GIS applications using Mapbox, Leaflet, PostGIS for mapping and spatial analysis
-- **AI/ML**: LLM integrations, RAG (Retrieval-Augmented Generation) systems, data pipelines
-- **Cloud**: Google Cloud Platform, AWS, containerized deployments with scalable infrastructure
+### Production RAG System
+Production-oriented Retrieval-Augmented Generation system built with FastAPI, OpenAI, Pinecone, Ragas, Prometheus, Grafana, and AWS.
 
-Current focus: Building AI-powered geospatial and data processing solutions
+Highlights:
+- Designed end-to-end ingestion, chunking, embedding, retrieval, and grounded generation flow
+- Added offline evaluation with separated retrieval and generation quality checks
+- Established benchmark baselines of `0.78 faithfulness`, `0.62 answer relevancy`, and `0.75 context recall`
+- Added observability with Prometheus, Grafana, structured audit records, and latency tracking
+- Deployed to AWS EC2 behind Nginx
 
----
+Links:
+- Repo: [Production RAG System](https://github.com/Hamzakhan001/miniature-octo-funicular)
+- Live: [rag.hamzatwin.site](http://rag.hamzatwin.site/)
 
-## 🛠️ Tech Stack
+### Agentic Legal Review Backend
+Production-style multi-agent legal review backend built with FastAPI, LangGraph, Postgres, Pinecone, and Phoenix.
 
-**Languages**: Python, JavaScript, TypeScript, SQL
+Highlights:
+- Built a multi-agent workflow for summarisation, evidence extraction, drafting, critique, and finalisation
+- Integrated retrieval, external research/tool support, and persisted workflow state
+- Added Postgres-backed review lifecycle storage for status, facts, revisions, and reviewer notes
+- Implemented human approval and revision flows for safer legal workflow automation
+- Added Phoenix tracing and offline evaluation support for debugging and regression analysis
 
-**Frontend**: React, Angular, Next.js, TypeScript, Redux, React Router, Chakra UI, SASS
+Links:
+- Repo: [Agentic Legal Review Backend](https://github.com/Hamzakhan001/agentic-ai-system)
 
-**Backend**: Node.js, Express.js, Django, Flask, RESTful APIs, JWT Authentication
+### Personal Portfolio / AI Twin
+Portfolio site and conversational AI twin built with Next.js and deployed on AWS.
 
-**Databases**: PostgreSQL, PostGIS, MongoDB, MySQL, DynamoDB
+Highlights:
+- Reframed into a recruiter-facing personal portfolio with stronger project storytelling
+- Integrated a live conversational interface for discussing architecture, projects, and GenAI work
+- Designed as a professional full-stack AI portfolio rather than a generic landing page
 
-**AI/ML**: LLM Integration, RAG Systems, TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
+Links:
+- Portfolio: [hamzatwin.site](https://hamzatwin.site)
 
-**Geospatial**: Mapbox, Leaflet, PostGIS, GDAL (Python), Geoserver, Web GIS Development
+## Core Stack
 
-**Cloud & DevOps**: Google Cloud Platform, AWS, Docker, Kubernetes, Nginx, Heroku, DigitalOcean, Netlify
+**Languages & Frameworks**
+- Python
+- TypeScript / JavaScript
+- FastAPI
+- Next.js
+- React
+- Node.js
 
-**Tools**: Git, Webpack, npm, Socket.io, Chart.js, Three.js
+**AI / GenAI**
+- OpenAI APIs
+- LangChain
+- LangGraph
+- Pinecone
+- Ragas
+- Contextual memory
+- Tool calling
+- Retrieval-Augmented Generation
+- Agentic workflows
 
----
+**Data / Infra / Observability**
+- PostgreSQL
+- SQLModel
+- AWS
+- Nginx
+- Prometheus
+- Grafana
+- Phoenix
+- Structured logging
+- Audit tracking
 
-## 💼 Professional Experience
+## Focus Areas
 
-**Full Stack Developer | Multiple Companies**
+Right now I’m especially focused on:
+- evaluation-first GenAI engineering
+- context engineering for retrieval and long-running interactions
+- agentic systems with workflow controls and human review
+- observability and debugging for production AI applications
 
-Built and deployed production web applications across agriculture, real estate, and government sectors:
+## Current Goal
 
-- **ETL Pipelines & Data Processing**: Designed end-to-end geospatial pipelines processing satellite imagery through cloud functions (GCP), managing 4M+ polygon datasets with PostgreSQL/PostGIS
-- **REST APIs**: Developed Django REST and Node.js/Express APIs serving geospatial and analytical data with API integrations and webhooks
-- **Cloud Architecture**: Deployed containerized applications on GCP Cloud Run and AWS, optimizing performance and cost
-- **Geospatial Solutions**: Built Web GIS applications for project management (Dublin City Council), site suitability analysis, and real-time monitoring
-- **Data Integration**: Integrated external data sources, automated ETL workflows, managed API-based data ingestion with quality validation
+I’m looking to contribute to teams building practical AI products where strong engineering matters as much as model capability, especially around:
+- RAG systems
+- applied LLM products
+- evaluation and reliability
+- agentic workflows
+- AI product engineering
 
-**Key Projects**:
-- WayLoader: Project management platform for Dublin City Council using Angular, TypeScript, Leaflet, Python (GDAL), Node.js
-- OMEGA Space: Agricultural monitoring platform with satellite image processing, cloud pipelines, real-time analytics
-- Graana.com: Real estate platform managing 4M spatial records with React, Node.js, Express, PostgreSQL+PostGIS
-- GLOF Monitoring: Automated satellite monitoring system with Sky Watch integration and alert generation
+## Connect
 
----
-
-## 🎯 Core Competencies
-
-**Full-Stack Development**: MERN (MongoDB, Express, React, Node), MEAN (Angular), Django/Flask stacks
-
-**Geospatial Technology**: Web GIS development, spatial databases, mapping libraries, remote sensing data processing
-
-**AI & Machine Learning**: LLM integration, RAG systems, data preprocessing, model deployment
-
-**Cloud-Native Development**: Microservices, containerization, serverless functions, cloud infrastructure
-
-**Database Design**: Relational (PostgreSQL, MySQL), NoSQL (MongoDB), Spatial (PostGIS), optimization and indexing
-
-**Software Engineering**: Clean code practices, API design, version control, CI/CD, agile methodology
-
----
-
-## 📚 Education & Expertise
-
-**Masters in Artificial Intelligence** | AI applications, machine learning, neural networks
-
-**Bachelors in GIS Development** | Spatial analysis, geospatial technology, data visualization
-
-Hands-on experience with Python data science ecosystem, machine learning frameworks, and LLM/RAG implementations for production systems.
-
----
-
-## 🚀 Open To
-
-- Full Stack Developer roles (React, Node.js, Python)
-- Backend/API Development (Python, Node.js, Django, Flask)
-- GIS/Geospatial Development
-- AI Engineer / LLM Integration roles
-- Data Engineering & ETL Pipeline development
-
-Experienced with cross-functional teams. Strong focus on solving real-world problems with scalable, maintainable code.
-
----
-
-## 🔗 Let's Connect
-
-**Portfolio**: [hamzatwin.site](https://www.hamzatwin.site/)
-**LinkedIn**: [linkedin.com/in/hamzakhanhere](https://www.linkedin.com/in/hamzakhanhere/)
-**Open to**: Full-stack, backend, geospatial, and AI engineering opportunities
-
----
-
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=Hamzakhan001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhan001&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhan001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-> Building scalable systems that solve real problems | Full Stack • GIS • AI
+- Portfolio: [hamzatwin.site](https://hamzatwin.site)
+- LinkedIn: [linkedin.com/in/hamzakhanhere](https://www.linkedin.com/in/hamzakhanhere)
+- GitHub: [github.com/Hamzakhan001](https://github.com/Hamzakhan001)
+- Email: `spaceus9@gmail.com`
