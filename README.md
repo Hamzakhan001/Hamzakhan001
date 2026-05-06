@@ -28,7 +28,7 @@ Production-style RAG platform built with FastAPI, OpenAI, Pinecone, Ragas, Prome
 - Built an event-driven ingestion pipeline using `S3 -> SQS -> Lambda -> Fargate -> Pinecone`
 - Added observability for system health, tracing, and benchmarking
 
-[Repository](#)
+[Repository](https://github.com/Hamzakhan001/production-rag-platform)
 
 ### 2. Agentic Legal Review Backend
 Multi-step legal review backend built with FastAPI, LangGraph, PostgreSQL, Pinecone, Phoenix, OpenAI, and Anthropic.
@@ -40,7 +40,7 @@ Multi-step legal review backend built with FastAPI, LangGraph, PostgreSQL, Pinec
 - Increased supported conversation length by `50%` using contextual memory and session compaction
 - Added persisted review runs, revision history, and trace-based debugging
 
-[Repository](#)
+[Repository](https://github.com/Hamzakhan001/agentic-ai-system)
 
 ## Tech Stack
 
